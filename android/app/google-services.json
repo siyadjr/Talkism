@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725998060341",
+    "project_id": "talkism",
+    "storage_bucket": "talkism.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725998060341:android:dcdaba9c2dc6edf927027c",
+        "android_client_info": {
+          "package_name": "talkism.user.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMau8awf04dd9NEkIBh_a77XpLSvoWkCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
