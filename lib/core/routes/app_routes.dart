@@ -12,5 +12,4 @@ abstract class Paths {
   static const login = '/login';
   static const initial = '/';
   static const call = '/call';
-  static const incomingCall = '/incoming-call';
 }
